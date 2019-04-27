@@ -7,6 +7,8 @@ grandma_statement="HUH?! SPEAK UP, SONNY!"
   if (statement==statement.upcase)
     if(statement=="I LOVE YOU GRANDMA!")
       grandma_statement="I LOVE YOU TOO PUMPKIN!"
+    else
+      grandma_statement="NO, NOT SINCE 1938!"
     end
 
   # If you shout, she can hear you (or at least she thinks so)
